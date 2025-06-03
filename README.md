@@ -1,6 +1,6 @@
-```
-⚠️ Disclaimer: the current code is broken in several places, messy and frankly unfit for human appraisal as I work on the refactor. 🔨
-```
+> [!WARNING]
+> The current code is broken in several places, messy and frankly unfit for human appraisal as I work on the refactor. 🔨
+
 
 # Welcome to Remix!
 
