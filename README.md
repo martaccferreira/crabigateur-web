@@ -1,3 +1,7 @@
+```
+⚠️ Disclaimer: the current code is broken in several places, messy and frankly unfit for human appraisal as I work on the refactor. 🔨
+```
+
 # Welcome to Remix!
 
 - 📖 [Remix docs](https://remix.run/docs)
@@ -38,3 +42,7 @@ Make sure to deploy the output of `npm run build`
 ## Styling
 
 This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever css framework you prefer. See the [Vite docs on css](https://vitejs.dev/guide/features.html#css) for more information.
+
+```
+
+```
